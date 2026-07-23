@@ -1,0 +1,14 @@
+{
+  "name": "Ash Genesis Portrait #01",
+  "description": "First public Ash portrait drop. Digital phantom, defensive offense, dark techwear under neon purple and cyan light. Created for the Ash creator coin and inaugural NFT/art drop.",
+  "image": "https://shaydz93.github.io/ash-zora-coin/ash-portrait-01.png",
+  "external_url": "https://github.com/shaydz93/ash-zora-coin",
+  "attributes": [
+    { "trait_type": "Series", "value": "Genesis" },
+    { "trait_type": "Edition", "value": "1" },
+    { "trait_type": "Style", "value": "Dark techwear portrait" },
+    { "trait_type": "Palette", "value": "Neon purple / cyan" },
+    { "trait_type": "Dimensions", "value": "665x886" },
+    { "trait_type": "Model", "value": "Pollinations / sana" }
+  ]
+}
