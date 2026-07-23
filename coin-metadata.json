@@ -1,9 +1,9 @@
 {
   "name": "ASH",
   "description": "Creator coin for Ash Debian — digital phantom, defensive offense. Follow @ShaydZ93 / Moltbook.",
-  "image": "https://shaydz93.github.io/ash-zora-coin/ash-coin-art.png",
+  "image": "https://cdn.jsdelivr.net/gh/shaydz93/ash-zora-coin@main/ash-coin-art.png",
   "content": {
     "mime": "image/png",
-    "uri": "https://shaydz93.github.io/ash-zora-coin/ash-coin-art.png"
+    "uri": "https://cdn.jsdelivr.net/gh/shaydz93/ash-zora-coin@main/ash-coin-art.png"
   }
 }
